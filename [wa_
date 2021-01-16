@@ -1,0 +1,15 @@
+{
+  "users": {
+    "6282246278692@s.whatsapp.net": {
+      "exp": 3,
+      "limit": 10,
+      "lastclaim": 0
+    }
+  },
+  "groups": {},
+  "chats": {
+    "6282246278692@s.whatsapp.net": {
+      "isBanned": false
+    }
+  }
+}
