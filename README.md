@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Arya274/Arya-DN
-> cd Arya-DN
+> git clone https://github.com/Guss23/Gus-BoT
+> cd Guss-BoT
 > npm install
 ```
 ###### Run
@@ -21,8 +21,8 @@ Simple WhatsApp Bot
 
 ### FOR WINDOWS/VPS/RDP USER
 ```bash
-> git clone https://github.com/Arya274/Arya-DN
-> cd Arya-DN
+> git clone https://github.com/Guss23/Gus-BoT
+> cd Gus-BoT
 > npm install
 ```
 ###### Run
@@ -31,8 +31,8 @@ Simple WhatsApp Bot
 ```
 
 # Sosmed
-```Thanks @Nurotomo
-> Instagram: @arpunchs
-> YouTube: Drawl Nag
-> WhatsApp: 0882-3543-5804
+```Thanks @aprnsyh.1
+> Instagram: @aprnsyh.1
+
+> WhatsApp: 0852-7944-5363
 ```
